@@ -1,0 +1,6 @@
+{
+  "name": "OBSIDIAN Tattoo Atelier",
+  "description": "Premier luxury tattoo atelier in SoHo NYC, Miami, & Los Angeles. Specializing in bespoke fine-line botanicals, architectural blackwork, and micro-realism in hospital-grade sterile cleanrooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
