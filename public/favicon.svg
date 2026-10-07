@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="7" fill="#0a0a0a" stroke="#262626" stroke-width="1"/>
+  <!-- Central Diamond / Obsidian Prism -->
+  <polygon points="16,4 26,16 16,28 6,16" fill="none" stroke="#f5f5f5" stroke-width="1.2" stroke-linejoin="round"/>
+  <!-- Fine-line Vertical Needle Axis -->
+  <line x1="16" y1="2" x2="16" y2="30" stroke="#f5f5f5" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Needle Cartridge Tip -->
+  <polygon points="16,8 18.5,16 16,24 13.5,16" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-width="0.8"/>
+  <!-- Central Ink Drop Core -->
+  <circle cx="16" cy="16" r="1.8" fill="#ffffff"/>
+  <!-- Subtle Crosshairs -->
+  <line x1="11" y1="16" x2="21" y2="16" stroke="#f5f5f5" stroke-width="0.6" stroke-linecap="round"/>
+</svg>
